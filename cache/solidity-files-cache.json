@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\nbens\\Desktop\\DEV\\Aegis POC\\blockchain\\contracts\\AegisX.sol": {
+      "lastModificationDate": 1743222149113,
+      "contentHash": "cc6ae5fef37aa9381c350ea0a3b7201d",
+      "sourceName": "contracts/AegisX.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "AegisX"
+      ]
+    },
+    "C:\\Users\\nbens\\Desktop\\DEV\\Aegis POC\\blockchain\\contracts\\AegisXLite.sol": {
+      "lastModificationDate": 1743227474010,
+      "contentHash": "1e69e6f2a1cc89f64819182d9345aba5",
+      "sourceName": "contracts/AegisXLite.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "AegisXLite"
+      ]
+    }
+  }
+}
